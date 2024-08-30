@@ -6,6 +6,7 @@
 }
 
 .weird {
+    background-color: black;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -15,7 +16,7 @@
 }
 .weird > img{
      width: 300px;
-     margin-bottom: 2g0px;
+     margin-bottom: 20px;
      padding-left: 25px;
      padding-right: 25px;
      margin-top: 50px;
